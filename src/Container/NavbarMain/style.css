@@ -1,0 +1,21 @@
+.logo_mobile_navbar {
+    height: 45px;
+    width: 45px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.navbar_mobile {
+    height: 55px;
+    background-color: rgb(245, 255, 245) !important;
+}
+
+.nav_icon {
+    color: #3fb476;
+}
+
+.user_img_mobile {
+    height: auto;
+    width: 30px;
+    border-radius: 50%;
+}

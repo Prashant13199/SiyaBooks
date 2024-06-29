@@ -1,0 +1,13 @@
+.page_name {
+    font-size: 25px;
+    font-weight: bold;
+    color: gray;
+}
+
+.hr {
+    color: gray;
+}
+
+.library {
+    padding: 20px
+}
